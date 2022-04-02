@@ -1,1 +1,1 @@
-'# Template Tienda' 
+# Template Tienda
